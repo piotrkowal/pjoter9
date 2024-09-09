@@ -20,4 +20,3 @@ jobs:
       with:
         api_token: ${{ secrets.NEOCITIES_API_KEY }}
         cleanup: false
-        dist_dir: '/home/runner/work/pjoter9/public'
